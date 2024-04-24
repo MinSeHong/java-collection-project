@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"DocsComment","l":"DocsComment()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"DocsComment","l":"getTotal(int, int)","u":"getTotal(int,int)"}];updateSearchResults();
