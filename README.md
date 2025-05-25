@@ -21,6 +21,10 @@ Java Collection을 이용한 학생과 교사 프로그램입니다.</br>
 
 <br/><br/>
 
+
+
+*****
+
 ##  프로젝트 소개
 + 개발기간: 2023.09.29 ~ 2023.10.13
 + 개발인원: 1명
@@ -40,4 +44,15 @@ Java Collection을 이용한 학생과 교사 프로그램입니다.</br>
 2. 주요 기능
     1. 학생과 교사 목록을 수정, 삭제, 생성
     2. 생성한 학생과 교사 객체를 파일 형태로 저장 및 불러오기
-    3. 영어,한글의 자간 크기에 따라 정렬되도록 제작
+    3. 영어,한글 자간 크기에 따라 정렬되도록 제작
+
+*****
+
+<br/>
+
+<p align='center'>
+  <a href="https://minsehong.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=More%20About%20Project&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=https://minsehong.github.io/&descAlignY=70">
+    </img>
+  </a>
+</p>
