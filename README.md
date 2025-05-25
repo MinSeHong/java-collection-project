@@ -1,3 +1,5 @@
+*****
+
 <p align='center'>
   <img src= "https://capsule-render.vercel.app/api?type=soft&color=auto&text=Java%20Collection%20Project&fontSize=50&animation=twinkling"/>
 </p>
@@ -8,9 +10,7 @@
   <img src="https://img.shields.io/badge/eclipse-2C4AA8?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-
-*****
-
+</br>
 <p align='center'>
 Java Collection을 이용한 학생과 교사 프로그램입니다.</br>
 학생과 교사를 CRUD형식으로 추가,삭제,수정할 수 있습니다.</br>
