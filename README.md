@@ -3,9 +3,12 @@
 <p align='center'>
   <img src= "https://capsule-render.vercel.app/api?type=soft&color=auto&text=Java%20Collection%20Project&fontSize=50&animation=twinkling"/>
 </p>
+
+
 <h3 align='center'>
-  SKILL STACKS
+  SKILL STACKS <br/>
 </h3>
+
 <p align='center'>
   <img src="https://img.shields.io/badge/eclipse-2C4AA8?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -32,19 +35,19 @@ Java Collection을 이용한 학생과 교사 프로그램입니다.</br>
 <br/>
 
 ## 실행방법
-1. 이클립스로 실행해야합니다. (https://www.eclipse.org/)
-2. 자바를 설치하고, 이클립스 실행한 후 다음 프로젝트를 파일 디렉토리로 지정합니다.
-3. "/src/console/AcademyApp.java"를 실행합니다.
+>이클립스로 실행해야합니다. (https://www.eclipse.org/)<br/>
+>자바를 설치하고, 이클립스 실행한 후 다음 프로젝트를 파일 디렉토리로 지정합니다.<br/>
+>"/src/console/AcademyApp.java"를 실행합니다.<br/>
 
 <br/>
 
 ## 설명
-1. Eclipse로 실행해야하는 이유
-    1. Eclipse의 Font 기준으로 한글, 영어가 정렬되도록 제작했습니다.
-2. 주요 기능
-    1. 학생과 교사 목록을 수정, 삭제, 생성
-    2. 생성한 학생과 교사 객체를 파일 형태로 저장 및 불러오기
-    3. 영어,한글 자간 크기에 따라 정렬되도록 제작
+>Eclipse로 실행해야하는 이유
+>>Eclipse의 Font 기준으로 한글, 영어가 정렬되도록 제작했습니다.
+>주요 기능
+>>학생과 교사 목록을 수정, 삭제, 생성<br/>
+>>생성한 학생과 교사 객체를 파일 형태로 저장 및 불러오기<br/>
+>>영어,한글 자간 크기에 따라 정렬되도록 제작<br/>
 
 *****
 
